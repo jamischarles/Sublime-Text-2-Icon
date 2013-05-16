@@ -1,8 +1,11 @@
-Sublime Text 2 Replacement Icon
+Sublime Text 3 Replacement Icon
 =============
-A replacement icon for [Sublime Text 2](http://sublimetext.com/2)
 
-![Sublime Text 2 replacement icon preview](https://github.com/dmatarazzo/Sublime-Text-2-Icon/raw/master/st2_icon_preview.png "Preview")
+The repo includes 3 different Sublime Text icons you can use. You can pick which one you want.
+
+A replacement icon for [Sublime Text 3](http://sublimetext.com/2)
+
+![Sublime Text 3 replacement icon preview](https://github.com/dmatarazzo/Sublime-Text-2-Icon/raw/master/st2_icon_preview.png "Preview")
 
 Adapted by Daniel Matarazzo from an [icon](http://dribbble.com/shots/317512-Sublime-Text-2-Icon) by [Lindsay Mindler](http://lindsayburtner.com/)
 
@@ -11,9 +14,9 @@ Installation (Mac OS X)
 
 Open the following folder:
 
-    open /Applications/Sublime\ Text\ 2.app/Contents/Resources/
+    open /Applications/Sublime\ Text.app/Contents/Resources/
 
-Find the file `Sublime Text 2.icns` and replace with the one from this repository. The name needs to remain exactly the same.
+Find the file `Sublime Text.icns` and replace with the one from this repository. The name needs to remain exactly the same.
 
 If you want to replace the built-in document icons as well, copy all the .icns files from this project's `Document Icons` folder to the same folder as above. Doing so will overwrite the application's default icons, so you may want to back them up in case you'd like to restore them.`
 
